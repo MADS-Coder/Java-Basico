@@ -1,4 +1,4 @@
-package com.matheus.cursojava.enumeratte;
+package com.matheus.cursojava.enumeradores;
 
 public enum DiaSemana {
 	
